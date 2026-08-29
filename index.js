@@ -9,7 +9,7 @@ app.listen(process.env.PORT || 10000, ()=>console.log("🌐 Web server live"));
 
 // --- CONFIG - EDIT THESE AFTER YOU COPY ID ---
 const GUILD_ID = "1521854852840554576"; // Right-click Windowra server icon -> Copy ID
-const MODMAIL_CATEGORY_ID = "1540536751456522331"; // Right-click your Modmail/Ticket created category -> Copy ID
+const MODMAIL_CATEGORY_ID = "1540537134304198836"; // Right-click your Modmail/Ticket created category -> Copy ID
 const STAFF_ROLE_NAME = "Staff";
 const LOG_CHANNEL_NAME = "logs";
 
